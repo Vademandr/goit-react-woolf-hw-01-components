@@ -76,6 +76,8 @@ statistical data is stored in the
 [`data.json`](https://minhaskamal.github.io/DownGit/#/home?url=https:%2F%2Fgithub.com%2Fgoitacademy%2Freact-homework%2Fblob%2Fmaster%2Fhomework-01%2Fstatistics%2Fdata.json)
 file.
 
+![Preview](./assets/statistics.jpg)
+
 ##### Description of the `<Statistics>` component
 
 The component must accept two props `title` and `stats`, which specify the title
